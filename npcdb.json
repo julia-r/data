@@ -1,0 +1,10 @@
+{
+	"npc": [
+		{
+			"name": "Raina",
+			"alignment": "Neutral Good",
+			"race": "Human",
+			"level": "10"
+		}
+	]
+}
